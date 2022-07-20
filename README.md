@@ -1,7 +1,7 @@
 # IST-Deep-Learning-based-Codec-Optimization
-Six different images from JPEG-AI test was compressed in three diffrent bitrates correspond to low, midium, and high qualities using VAE-Hyper-X codec, where X is the image quality metric used in the optimization. The compressed images are available in Images/.
-Decoded images were evaluated by people through a pairwise subjective test via Amazon mechanical Turk (AMT) in three different sessions. The winning frequency of each session was calculated and reported in the results/. 
-# Image quality metics:
+Six different images from JPEG-AI test was compressed in three diffrent bitrates correspond to low, midium, and high qualities using VAE-Hyper-X codec, where X is the image quality metric used in the optimization. The compressed images are available in Images/.<br />
+Decoded images were evaluated by people through a pairwise subjective test via Amazon mechanical Turk (AMT) in three different sessions. The winning frequency of each session was calculated and reported in the results/. <br />
+- Image quality metics:
     - MSE: Mean Squared Error
     - SSIM: Structural Similarity Index Metric
     - MS-SSIM: Multi-Scale Structural Similarity Index Metric
